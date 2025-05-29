@@ -1,6 +1,5 @@
 # Rede Social para Pets (Cachorros e Gatos)
 
-Este repositório contém o modelo de dados para o desenvolvimento de uma rede social para pets, com as seguintes funcionalidades:
 - Donos podem cadastrar seus animais de estimação.
 - Animais são vinculados a um dono.
 - Donos podem adicionar outros amigos humanos ou não.
@@ -41,7 +40,3 @@ Este repositório contém o modelo de dados para o desenvolvimento de uma rede s
 - **Data** (data/hora)
 - **Localização** (string)
 - **Lista de Participantes** (array de IDs de usuários)
-
-## Diagrama (Opcional)
-Se você criar um diagrama visual, pode adicionar a imagem aqui. Exemplo:
-![Diagrama do Modelo de Dados](diagrama_modelo_dados.png)
